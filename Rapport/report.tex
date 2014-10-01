@@ -1,0 +1,131 @@
+%TEX-template borrowed from https://github.com/idlouhy/wonsole/blob/master/report/src/report.tex
+
+\documentclass[12pt,a4paper,oneside]{report}
+
+\usepackage[section] {placeins}
+
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{float}
+
+\selectlanguage{english}
+
+\usepackage{graphicx}
+\usepackage{tabu}
+\usepackage{booktabs}
+\usepackage{wrapfig}
+\usepackage{pbox}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{longtable}
+\usepackage{pdfpages}
+
+\usepackage{nameref}
+\usepackage{fullpage}
+\usepackage{verbatim}
+\usepackage{url}
+\usepackage{minitoc}
+\usepackage{cite}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{color}
+\usepackage{pgfgantt}
+\usepackage{listings}
+
+\usepgfplotslibrary{dateplot}
+
+\setlength{\parindent}{0.0in}
+\setlength{\parskip}{1.5ex}
+
+\setlength{\fboxsep}{0pt}
+\setlength{\fboxrule}{1pt}
+
+\fontfamily{ptm}\selectfont
+
+\usepackage{hyperref}
+\hypersetup{
+    bookmarks=true,
+    unicode=true,
+    pdftoolbar=true,
+    pdfmenubar=true,
+    pdffitwindow=false,
+    pdfstartview={FitH},
+    pdftitle={Customer Driven Report},
+    pdfauthor={Group 20, Espen, Bart, Sindre},
+    pdfsubject={Customer Driven Project report},
+    pdfkeywords={ntnu} {sintef} {PAW} {pattern},
+    pdfnewwindow=true,
+    colorlinks=false,
+    linkcolor=blue,
+    citecolor=blue,
+    filecolor=blue,
+    urlcolor=blue
+}
+
+
+\bibliographystyle{ieeetr}
+
+\begin{document}
+
+%TITLE
+
+\thispagestyle{empty}
+
+\begin{center}
+    {\Huge\textbf{TEST}} \\
+    \medskip
+    {\huge (TEST)}
+
+    \vspace{.5cm}
+
+    {\Large
+    TEST}\\
+
+    \vspace{0.5cm}
+
+    {\large \today}\\
+
+    \vspace{0.5cm}
+
+    {\Large Group 20:}\\
+    {\large
+    Espen Andreassen\\
+    Bart von Blokland\\
+    Sindre Ilebekk Johansen\\
+    }
+
+    \vspace{0.5cm}
+
+    {\large
+    Advisor:\\
+    Torgeir Dingsøyr\\}
+
+    \vspace{1cm}
+
+%    \includegraphics[width=2in]{images/logo-sintef.jpg}
+
+%    \includegraphics[width=2in]{images/logo-ntnu.pdf}
+
+    \large{Department of\\Computer and Information Science}
+
+\end{center}
+
+\newpage
+
+\setcounter{tocdepth}{1}
+\dominitoc
+\dominilof
+\dominilot
+\tableofcontents
+\clearpage
+\listoffigures
+\listoftables
+
+% CHAPTERS
+
+
+%\addcontentsline{toc}{chapter}{References}
+%\bibliography{references}
+
+\end{document}
