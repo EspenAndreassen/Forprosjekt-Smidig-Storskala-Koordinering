@@ -51,10 +51,10 @@
     pdfmenubar=true,
     pdffitwindow=false,
     pdfstartview={FitH},
-    pdftitle={Customer Driven Report},
-    pdfauthor={Group 20, Espen, Bart, Sindre},
-    pdfsubject={Customer Driven Project report},
-    pdfkeywords={ntnu} {sintef} {PAW} {pattern},
+    pdftitle={Research Project},
+    pdfauthor={Espen Andreassen},
+    pdfsubject={Research Project Report},
+    pdfkeywords={ntnu} {research project}{large-scale}{agile}{},
     pdfnewwindow=true,
     colorlinks=false,
     linkcolor=blue,
@@ -73,7 +73,7 @@
 \thispagestyle{empty}
 
 \begin{center}
-    {\Huge\textbf{TEST}} \\
+    {\Huge\textbf{Research Project}} \\
     \medskip
     {\huge (TEST)}
 
@@ -88,11 +88,9 @@
 
     \vspace{0.5cm}
 
-    {\Large Group 20:}\\
+    {\Large Author:}\\
     {\large
     Espen Andreassen\\
-    Bart von Blokland\\
-    Sindre Ilebekk Johansen\\
     }
 
     \vspace{0.5cm}
@@ -113,6 +111,9 @@
 
 \newpage
 
+\input{abstract}
+\input{preface}
+
 \setcounter{tocdepth}{1}
 \dominitoc
 \dominilof
@@ -124,8 +125,13 @@
 
 % CHAPTERS
 
+\input{introduction}
+\input{theory}
+\input{method}
+\input{result}
+\input{discussion}
 
-%\addcontentsline{toc}{chapter}{References}
-%\bibliography{references}
+\addcontentsline{toc}{chapter}{References}
+\bibliography{references}
 
 \end{document}
