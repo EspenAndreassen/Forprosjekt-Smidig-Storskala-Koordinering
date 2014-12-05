@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: report.aux
+The style file: ieeetr.bst
+Database file #1: references.bib
+Warning--empty note in Haaster2014
+Warning--empty note in Dingsoyr2013a
+Warning--empty journal in waterfall
+Warning--empty journal in scrum
+Warning--empty note in Robert2014
+You've used 24 entries,
+            1876 wiz_defined-function locations,
+            631 strings with 7274 characters,
+and the built_in function-call counts, 5246 in all, are:
+= -- 519
+> -- 194
+< -- 1
++ -- 75
+- -- 51
+* -- 353
+:= -- 773
+add.period$ -- 29
+call.type$ -- 24
+change.case$ -- 20
+chr.to.int$ -- 0
+cite$ -- 29
+duplicate$ -- 268
+empty$ -- 512
+format.name$ -- 51
+if$ -- 1266
+int.to.chr$ -- 0
+int.to.str$ -- 24
+missing$ -- 23
+newline$ -- 80
+num.names$ -- 26
+pop$ -- 77
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 163
+stack$ -- 0
+substring$ -- 288
+swap$ -- 95
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 55
+width$ -- 26
+write$ -- 217
+(There were 5 warnings)

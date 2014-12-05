@@ -1,0 +1,115 @@
+\begin{thebibliography}{10}
+
+\bibitem{Agerfalk2006}
+J.~\AA{gerfalk}, B.~Fitzgerald, and O.~In, ``{Flexible and distributed software
+  processes: old petunias in new bowls?},'' {\em Communications of the ACM},
+  vol.~49, no.~10, pp.~26--34, 2006.
+
+\bibitem{Leffingwell2007}
+D.~Leffingwell, {\em Scaling Software Agility: Best Practices for Large
+  Enterprises (The Agile Software Development Series)}.
+\newblock Addison-Wesley Professional, 2007.
+
+\bibitem{Cockburn2002}
+A.~Cockburn, {\em Agile Software Development}.
+\newblock Boston, MA, USA: Addison-Wesley Longman Publishing Co., Inc., 2002.
+
+\bibitem{Batra2010}
+D.~Batra and W.~Xia, ``{Balancing Agile and Structured Development Approaches
+  to Successfully Manage Large Distributed Software Projects: A Case Study from
+  the Cruise Line},'' {\em Communications of the Association for Information
+  Systems}, vol.~27, no.~1, pp.~379--394, 2010.
+
+\bibitem{Dingsoyr2013b}
+T.~Dings\o{yr} and N.~B. Moe, ``{Research challenges in large-scale agile
+  software development},'' {\em ACM SIGSOFT Software Engineering Notes},
+  vol.~38, p.~38, Aug. 2013.
+
+\bibitem{Paasivaara2012}
+M.~Paasivaara, ``{Inter-team coordination in large-scale globally distributed
+  scrum: Do Scrum-of-Scrums really work?},'' {\em ESEM}, pp.~235--238, 2012.
+
+\bibitem{Com2013}
+V.~O. N.~E. Com, ``{7th Annual State of Agile Development Survey}.''
+  \url{http://www.versionone.com/pdf/7th-Annual-State-of-Agile-Development-Survey.pdf},
+  2013.
+\newblock [Online; accessed 15-November-2014].
+
+\bibitem{Vlietland2015}
+J.~Vlietland and H.~van Vliet, ``{Towards a governance framework for chains of
+  Scrum teams},'' {\em Information and Software Technology}, vol.~57,
+  pp.~52--65, Jan. 2015.
+
+\bibitem{Lindvall2004}
+M.~Lindvall, D.~Muthig, and A.~Dagnino, ``{Agile software development in large
+  organizations},'' {\em Computer}, pp.~26--34, 2004.
+
+\bibitem{Lee2008}
+E.~C. Lee, ``{Forming to Performing: Transitioning Large-Scale Project Into
+  Agile},'' {\em Agile 2008 Conference}, pp.~106--111, 2008.
+
+\bibitem{Paasivaara2009}
+M.~Paasivaara, S.~Durasiewicz, and C.~Lassenius, ``{Using Scrum in Distributed
+  Agile Development: A Multiple Case Study},'' {\em 2009 Fourth IEEE
+  International Conference on Global Software Engineering}, pp.~195--204, July
+  2009.
+
+\bibitem{Pikkarainen2008}
+M.~Pikkarainen, J.~Haikara, O.~Salo, P.~Abrahamsson, and J.~Still, ``{The
+  impact of agile practices on communication in software development},'' {\em
+  Empirical Software Engineering}, vol.~13, pp.~303--337, May 2008.
+
+\bibitem{Freudenberg2010}
+S.~Freudenberg and H.~Sharp, ``{The top 10 burning research questions from
+  practitioners},'' {\em Software, IEEE}, 2010.
+
+\bibitem{Haaster2014}
+K.~V. Haaster, ``{Agile in-the-large: Getting from Paradox to Paradigm}.''
+  2014.
+
+\bibitem{Dingsoyr2013a}
+T.~Dings\o{yr}, T.~E. F\ae{gri}, and J.~Itkonen, ``{What is Large in
+  Large-Scale? A Taxonomy of Scale for Agile Software Development}.'' 2013.
+
+\bibitem{Reifer2003}
+D.~Reifer, F.~Maurer, and H.~Erdogmus, ``{Scaling Agile Methods},'' {\em IEEE
+  Software}, vol.~20, pp.~12--14, July 2003.
+
+\bibitem{Beck2004}
+K.~Beck and C.~Andres, {\em Extreme Programming Explained: Embrace Change (2Nd
+  Edition)}.
+\newblock Addison-Wesley Professional, 2004.
+
+\bibitem{Borjesson2004}
+A.~Borjesson and L.~Mathiassen, ``{Successful Process Implementation},'' {\em
+  Software, IEEE}, 2004.
+
+\bibitem{Oates2006}
+B.~J. Oates, {\em Researching Information Systems and Computing}.
+\newblock Sage Publications Ltd., 2006.
+
+\bibitem{waterfall}
+{Dr. Royce, Winston W.}, ``{Managing the Development of Large Software
+  Systems},'' 1970.
+
+\bibitem{abrahamsson2002}
+P.~Abrahamsson, O.~Salo, J.~Ronkainen, and J.~Warsta, ``{Agile software
+  development methods - Review and analysis},'' Tech. Rep. 478, VTT
+  PUBLICATIONS, 2002.
+
+\bibitem{scrum}
+{Takeuchi, Hirotaka and Nonaka, Ikujiro}, ``{New New Product Development
+  Game},'' 1986.
+
+\bibitem{Nord2011}
+J.~Schnitter and O.~Mackert, ``Large-scale agile software development at sap
+  ag,'' in {\em Evaluation of Novel Approaches to Software Engineering}
+  (L.~Maciaszek and P.~Loucopoulos, eds.), vol.~230 of {\em Communications in
+  Computer and Information Science}, pp.~209--220, Springer Berlin Heidelberg,
+  2011.
+
+\bibitem{Robert2014}
+I.~O. Robert L.~Nord and P.~Kruchten, ``Agile in distress: Architecture to the
+  rescue.'' 2014.
+
+\end{thebibliography}
