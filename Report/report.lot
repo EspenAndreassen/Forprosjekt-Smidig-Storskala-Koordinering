@@ -1,13 +1,28 @@
 \select@language {english}
 \select@language {english}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Introduction}{5}{chapter.1}
+\contentsline {xchapter}{Introduction}{1}{chapter.1}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Theory}{8}{chapter.2}
-\contentsline {table}{\numberline {2.1}{\ignorespaces A taxonomy of scale of agile software development projects.\relax }}{13}{table.caption.9}
+\contentsline {xchapter}{Theory}{5}{chapter.2}
+\contentsline {table}{\numberline {2.1}{\ignorespaces A taxonomy of scale of agile software development projects.\relax }}{13}{table.caption.14}
+\contentsline {table}{\numberline {2.2}{\ignorespaces Impact of geographical dispersion on performance.\relax }}{17}{table.caption.20}
+\contentsline {table}{\numberline {2.3}{\ignorespaces Summary of impacts identified in the studies.\relax }}{17}{table.caption.23}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Method}{14}{chapter.3}
+\contentsline {xchapter}{Method}{18}{chapter.3}
+\contentsline {table}{\numberline {3.1}{\ignorespaces Databases used in the literature review.\relax }}{20}{table.caption.24}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Search words used in the literature review.\relax }}{21}{table.caption.25}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Results}{15}{chapter.4}
+\contentsline {xchapter}{Results}{22}{chapter.4}
+\contentsline {table}{\numberline {4.1}{\ignorespaces Case projects and data collection.\relax }}{23}{table.caption.26}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Examples of CoPs at Ericsson.\relax }}{25}{table.caption.27}
+\contentsline {table}{\numberline {4.3}{\ignorespaces CoP purposes at Ericsson.\relax }}{29}{table.caption.31}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Information about case companies.\relax }}{30}{table.caption.32}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Grounding for each issue.\relax }}{31}{table.caption.33}
+\contentsline {table}{\numberline {4.6}{\ignorespaces Distribution of issues over the case studies.\relax }}{31}{table.caption.34}
+\contentsline {table}{\numberline {4.7}{\ignorespaces Summary of propositions.\relax }}{35}{table.caption.42}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Discussion}{16}{chapter.5}
+\contentsline {xchapter}{Discussion}{36}{chapter.5}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Conclusion}{37}{chapter.6}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Future Work}{38}{chapter.7}

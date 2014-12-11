@@ -1,14 +1,23 @@
 \select@language {english}
 \select@language {english}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Introduction}{5}{chapter.1}
+\contentsline {xchapter}{Introduction}{1}{chapter.1}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Theory}{8}{chapter.2}
-\contentsline {figure}{\numberline {2.1}{\ignorespaces The Waterfall model.\relax }}{10}{figure.caption.6}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces The Scrum cycle.\relax }}{12}{figure.caption.8}
+\contentsline {xchapter}{Theory}{5}{chapter.2}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces The Waterfall model.\relax }}{7}{figure.caption.6}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces The Scrum cycle.\relax }}{9}{figure.caption.8}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces A theory of coordination in agile software development projects.\relax }}{12}{figure.caption.9}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Components of coordination effectiveness from Strode et al. (2011).\relax }}{15}{figure.caption.15}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Agile team productivity conceptual framework.\relax }}{16}{figure.caption.18}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Method}{14}{chapter.3}
+\contentsline {xchapter}{Method}{18}{chapter.3}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Results}{15}{chapter.4}
+\contentsline {xchapter}{Results}{22}{chapter.4}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Characteristics of successful CoPs.\relax }}{28}{figure.caption.30}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Resulting conceptual model.\relax }}{34}{figure.caption.41}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Discussion}{16}{chapter.5}
+\contentsline {xchapter}{Discussion}{36}{chapter.5}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Conclusion}{37}{chapter.6}
+\addvspace {10\p@ }
+\contentsline {xchapter}{Future Work}{38}{chapter.7}

@@ -3,50 +3,58 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: report.aux
 The style file: ieeetr.bst
 Database file #1: references.bib
+Repeated entry---line 622 of file references.bib
+ : @article{Malone1994
+ :                    ,
+I'm skipping whatever remains of this entry
+A bad cross reference---entry "Strode2011"
+refers to entry "conf/pacis/2011", which doesn't exist
+Warning--I didn't find a database entry for "conf/pacis/2011"
 Warning--empty note in Haaster2014
 Warning--empty note in Dingsoyr2013a
 Warning--empty journal in waterfall
 Warning--empty journal in scrum
+Warning--empty journal in Sutherland2001
 Warning--empty note in Robert2014
-You've used 24 entries,
+You've used 35 entries,
             1876 wiz_defined-function locations,
-            631 strings with 7274 characters,
-and the built_in function-call counts, 5246 in all, are:
-= -- 519
-> -- 194
+            722 strings with 9735 characters,
+and the built_in function-call counts, 8711 in all, are:
+= -- 877
+> -- 313
 < -- 1
-+ -- 75
-- -- 51
-* -- 353
-:= -- 773
-add.period$ -- 29
-call.type$ -- 24
-change.case$ -- 20
++ -- 118
+- -- 83
+* -- 608
+:= -- 1241
+add.period$ -- 43
+call.type$ -- 35
+change.case$ -- 31
 chr.to.int$ -- 0
-cite$ -- 29
-duplicate$ -- 268
-empty$ -- 512
-format.name$ -- 51
-if$ -- 1266
+cite$ -- 41
+duplicate$ -- 442
+empty$ -- 831
+format.name$ -- 83
+if$ -- 2122
 int.to.chr$ -- 0
-int.to.str$ -- 24
-missing$ -- 23
-newline$ -- 80
-num.names$ -- 26
-pop$ -- 77
+int.to.str$ -- 35
+missing$ -- 33
+newline$ -- 116
+num.names$ -- 41
+pop$ -- 105
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 163
+skip$ -- 307
 stack$ -- 0
-substring$ -- 288
-swap$ -- 95
+substring$ -- 557
+swap$ -- 179
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 5
-while$ -- 55
-width$ -- 26
-write$ -- 217
-(There were 5 warnings)
+warning$ -- 6
+while$ -- 90
+width$ -- 37
+write$ -- 334
+(There were 2 error messages)

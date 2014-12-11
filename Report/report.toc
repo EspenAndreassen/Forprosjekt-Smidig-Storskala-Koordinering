@@ -1,20 +1,58 @@
 \select@language {english}
 \select@language {english}
-\contentsline {chapter}{\numberline {1}Introduction}{5}{chapter.1}
-\contentsline {section}{\numberline {1.1}Motivation}{6}{section.1.1}
-\contentsline {section}{\numberline {1.2}Problem Description and Background}{6}{section.1.2}
-\contentsline {section}{\numberline {1.3}Scope and Limitations}{7}{section.1.3}
-\contentsline {section}{\numberline {1.4}Report Outline}{7}{section.1.4}
-\contentsline {chapter}{\numberline {2}Theory}{8}{chapter.2}
-\contentsline {section}{\numberline {2.1}Software Development Methodologies}{9}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Traditional Software Development}{9}{subsection.2.1.1}
-\contentsline {subsubsection}{Waterfall}{9}{section*.5}
-\contentsline {subsection}{\numberline {2.1.2}Agile Software Development}{10}{subsection.2.1.2}
-\contentsline {subsubsection}{Scrum}{11}{section*.7}
-\contentsline {section}{\numberline {2.2}Coordination}{12}{section.2.2}
-\contentsline {section}{\numberline {2.3}Large-scale}{12}{section.2.3}
-\contentsline {section}{\numberline {2.4}Productivity and Efficiency}{13}{section.2.4}
-\contentsline {chapter}{\numberline {3}Method}{14}{chapter.3}
-\contentsline {chapter}{\numberline {4}Results}{15}{chapter.4}
-\contentsline {chapter}{\numberline {5}Discussion}{16}{chapter.5}
-\contentsline {chapter}{References}{17}{chapter.5}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motivation}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Problem Description and Background}{2}{section.1.2}
+\contentsline {section}{\numberline {1.3}Scope and Limitations}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Report Outline}{4}{section.1.4}
+\contentsline {chapter}{\numberline {2}Theory}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Software Development Methodologies}{6}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Traditional Software Development}{6}{subsection.2.1.1}
+\contentsline {subsubsection}{Waterfall}{6}{section*.5}
+\contentsline {subsection}{\numberline {2.1.2}Agile Software Development}{7}{subsection.2.1.2}
+\contentsline {subsubsection}{Scrum}{8}{section*.7}
+\contentsline {section}{\numberline {2.2}Coordination}{10}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Malone and Crowston's Coordination Theory}{10}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Strode's Theoretical Model of Coordination}{10}{subsection.2.2.2}
+\contentsline {subsubsection}{Synchronisation}{11}{section*.10}
+\contentsline {subsubsection}{Structure}{11}{section*.11}
+\contentsline {subsubsection}{Boundary Spanning}{11}{section*.12}
+\contentsline {subsubsection}{Coordination Effectiveness}{13}{section*.13}
+\contentsline {subsection}{\numberline {2.2.3}Coordination in Large-scale}{13}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Large-scale}{13}{section.2.3}
+\contentsline {section}{\numberline {2.4}Efficiency, Effectiveness and Productivity in Coordination}{14}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Strode's Coordination Effectiveness}{14}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Some Studies on the Field}{15}{subsection.2.4.2}
+\contentsline {subsubsection}{Team Effectiveness 1997-2007: A Review of Recent Advancements and a Glimpse Into the Future}{15}{section*.16}
+\contentsline {subsubsection}{Interpretative Case Studies on Agile Team Productivity and Management}{15}{section*.17}
+\contentsline {subsubsection}{Dispersion, Coordination and Performance in Global Software Teams: A Systematic Review}{17}{section*.19}
+\contentsline {subsubsection}{Team Performance in Agile Development Teams: Findings from 18 Focus Groups}{17}{section*.21}
+\contentsline {subsubsection}{Summary}{17}{section*.22}
+\contentsline {chapter}{\numberline {3}Method}{18}{chapter.3}
+\contentsline {section}{\numberline {3.1}Snowball Sampling and General Accumulation}{19}{section.3.1}
+\contentsline {section}{\numberline {3.2}Literature Review}{19}{section.3.2}
+\contentsline {chapter}{\numberline {4}Results}{22}{chapter.4}
+\contentsline {section}{\numberline {4.1}Inter-team Coordination in Large-Scale Globally Distributed Scrum: Do Scrum-of-Scrums Really Work?}{23}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Findings from Project Cases}{23}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Conclusion}{24}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Communities of Practice in a Large Distributed Agile Software Development Organization \IeC {\textendash } Case Ericsson}{24}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Community of Practices Overview}{24}{subsection.4.2.1}
+\contentsline {subsubsection}{Feature CoP}{26}{section*.28}
+\contentsline {subsubsection}{End-to-end CoP}{27}{section*.29}
+\contentsline {subsection}{\numberline {4.2.2}Characteristics of Successful CoPs}{27}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Purpose of CoPs}{28}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Findings and Conclusion}{29}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Towards a Governance Framework for Chains of Scrum Teams}{30}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Issues identified}{30}{subsection.4.3.1}
+\contentsline {subsubsection}{Predictability}{31}{section*.35}
+\contentsline {subsubsection}{Coordination}{31}{section*.36}
+\contentsline {subsubsection}{Prioritization}{32}{section*.37}
+\contentsline {subsubsection}{Alignment}{33}{section*.38}
+\contentsline {subsubsection}{Visibility}{33}{section*.39}
+\contentsline {subsubsection}{Automation}{34}{section*.40}
+\contentsline {subsection}{\numberline {4.3.2}Conceptual Model}{34}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Conclusion}{35}{subsection.4.3.3}
+\contentsline {chapter}{\numberline {5}Discussion}{36}{chapter.5}
+\contentsline {chapter}{\numberline {6}Conclusion}{37}{chapter.6}
+\contentsline {chapter}{\numberline {7}Future Work}{38}{chapter.7}
+\contentsline {chapter}{References}{I}{chapter.7}

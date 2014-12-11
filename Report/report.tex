@@ -39,6 +39,8 @@
 \usetikzlibrary{backgrounds}
 \makeatletter
 
+\usepackage{pdflscape}
+
 \tikzset{%
   fancy quotes/.style={
     text width=\fq@width pt,
@@ -122,14 +124,9 @@
 \begin{center}
     {\Huge\textbf{Research Project}} \\
     \medskip
-    {\huge (TEST)}
+    {\huge Coordination Effectiveness in Large-scale Agile Software Development}
 
-    \vspace{.5cm}
-
-    {\Large
-    TEST}\\
-
-    \vspace{0.5cm}
+    \vspace{6.5cm}
 
     {\large \today}\\
 
@@ -146,19 +143,19 @@
     Advisor:\\
     Torgeir Dingsøyr\\}
 
-    \vspace{1cm}
+    \vspace{6.5cm}
 
-%    \includegraphics[width=2in]{images/logo-sintef.jpg}
+    \includegraphics[trim = 2mm 0mm 0mm 0mm, width=2.5in]{images/logo-ntnu.pdf}
 
-%    \includegraphics[width=2in]{images/logo-ntnu.pdf}
-
-    \large{Department of\\Computer and Information Science}
+    \includegraphics[trim = 0mm 0mm 12mm 0mm, width=3.5in]{images/idi.pdf}
+%    \large{Department of\\Computer and Information Science}
 
 \end{center}
 
 \newpage
 
 \input{abstract}
+\pagenumbering{gobble}
 \input{preface}
 
 \setcounter{tocdepth}{1}
@@ -177,6 +174,10 @@
 \input{method}
 \input{result}
 \input{discussion}
+\input{conclusion}
+\input{future_work}
+
+\pagenumbering{Roman}
 
 \addcontentsline{toc}{chapter}{References}
 \bibliography{references}

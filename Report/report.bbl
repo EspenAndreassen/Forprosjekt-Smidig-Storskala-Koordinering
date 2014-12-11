@@ -101,6 +101,26 @@ P.~Abrahamsson, O.~Salo, J.~Ronkainen, and J.~Warsta, ``{Agile software
 {Takeuchi, Hirotaka and Nonaka, Ikujiro}, ``{New New Product Development
   Game},'' 1986.
 
+\bibitem{Sutherland2001}
+J.~Sutherland, ``{Agile Can Scale: Inventing and Reinventing SCRUM in Five
+  Companies},'' vol.~Vol. 14, No. 12, Dec. 2001.
+
+\bibitem{Cohn2007}
+M.~Cohn, ``{Advice on Conducting the Scrum of Scrums Meeting}.''
+  \url{https://www.scrumalliance.org/community/articles/2007/may/advice-on-conducting-the-scrum-of-scrums-meeting},
+  2007.
+\newblock [Online; accessed 11-December-2014].
+
+\bibitem{Malone1994}
+T.~W. Malone and K.~Crowston, ``The interdisciplinary study of coordination,''
+  {\em ACM Comput. Surv.}, vol.~26, pp.~87--119, Mar. 1994.
+
+\bibitem{Strode2012}
+D.~E. Strode, S.~L. Huff, B.~Hope, and S.~Link, ``Coordination in co-located
+  agile software development projects,'' {\em Journal of Systems and Software},
+  vol.~85, no.~6, pp.~1222 -- 1238, 2012.
+\newblock Special Issue: Agile Development.
+
 \bibitem{Nord2011}
 J.~Schnitter and O.~Mackert, ``Large-scale agile software development at sap
   ag,'' in {\em Evaluation of Novel Approaches to Software Engineering}
@@ -111,5 +131,45 @@ J.~Schnitter and O.~Mackert, ``Large-scale agile software development at sap
 \bibitem{Robert2014}
 I.~O. Robert L.~Nord and P.~Kruchten, ``Agile in distress: Architecture to the
   rescue.'' 2014.
+
+\bibitem{Strode2011}
+D.~E. Strode, B.~G. Hope, S.~L. Huff, and S.~Link, ``Coordination effectiveness
+  in an agile software development context.,'' in {\em PACIS} (P.~B. Seddon and
+  S.~Gregor, eds.), p.~183, Queensland University of Technology, 2011.
+
+\bibitem{Melo2013}
+C.~De~O.~Melo, D.~S.~Cruzes, F.~Kon, and R.~Conradi, ``Interpretative case
+  studies on agile team productivity and management,'' {\em Inf. Softw.
+  Technol.}, vol.~55, pp.~412--427, Feb. 2013.
+
+\bibitem{Anh2012}
+N.-D. Anh, D.~S. Cruzes, and R.~Conradi, ``Dispersion, coordination and
+  performance in global software teams: A systematic review,'' in {\em
+  Proceedings of the ACM-IEEE International Symposium on Empirical Software
+  Engineering and Measurement}, ESEM '12, (New York, NY, USA), pp.~129--138,
+  ACM, 2012.
+
+\bibitem{Dingsoyr2013c}
+T.~Dingsøyr and Y.~Lindsjørn, ``Team performance in agile development teams:
+  Findings from 18 focus groups,'' in {\em Agile Processes in Software
+  Engineering and Extreme Programming} (H.~Baumeister and B.~Weber, eds.),
+  vol.~149 of {\em Lecture Notes in Business Information Processing},
+  pp.~46--60, Springer Berlin Heidelberg, 2013.
+
+\bibitem{Goodman1961}
+L.~A. Goodman, ``Snowball sampling,'' {\em Ann. Math. Statist.}, vol.~32,
+  pp.~148--170, 03 1961.
+
+\bibitem{khan2003}
+K.~S. Khan, R.~Kunz, J.~Kleijnen, and G.~Antes, ``{Five steps to conducting a
+  systematic review.},'' {\em Journal of the Royal Society of Medicine},
+  vol.~96, pp.~118--121, Mar. 2003.
+
+\bibitem{Paasivaara2014}
+M.~Paasivaara and C.~Lassenius, ``Communities of practice in a large
+  distributed agile software development organization – case ericsson,'' {\em
+  Information and Software Technology}, vol.~56, no.~12, pp.~1556 -- 1577,
+  2014.
+\newblock Special issue: Human Factors in Software Development.
 
 \end{thebibliography}
